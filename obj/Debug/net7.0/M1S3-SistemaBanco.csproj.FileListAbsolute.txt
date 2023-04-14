@@ -1,0 +1,15 @@
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana5C#\M1S3-SistemaBanco\bin\Debug\net7.0\M1S3-SistemaBanco.exe
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana5C#\M1S3-SistemaBanco\bin\Debug\net7.0\M1S3-SistemaBanco.deps.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana5C#\M1S3-SistemaBanco\bin\Debug\net7.0\M1S3-SistemaBanco.runtimeconfig.json
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana5C#\M1S3-SistemaBanco\bin\Debug\net7.0\M1S3-SistemaBanco.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana5C#\M1S3-SistemaBanco\bin\Debug\net7.0\M1S3-SistemaBanco.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana5C#\M1S3-SistemaBanco\obj\Debug\net7.0\M1S3-SistemaBanco.csproj.AssemblyReference.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana5C#\M1S3-SistemaBanco\obj\Debug\net7.0\M1S3-SistemaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana5C#\M1S3-SistemaBanco\obj\Debug\net7.0\M1S3-SistemaBanco.AssemblyInfoInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana5C#\M1S3-SistemaBanco\obj\Debug\net7.0\M1S3-SistemaBanco.AssemblyInfo.cs
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana5C#\M1S3-SistemaBanco\obj\Debug\net7.0\M1S3-SistemaBanco.csproj.CoreCompileInputs.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana5C#\M1S3-SistemaBanco\obj\Debug\net7.0\M1S3-SistemaBanco.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana5C#\M1S3-SistemaBanco\obj\Debug\net7.0\refint\M1S3-SistemaBanco.dll
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana5C#\M1S3-SistemaBanco\obj\Debug\net7.0\M1S3-SistemaBanco.pdb
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana5C#\M1S3-SistemaBanco\obj\Debug\net7.0\M1S3-SistemaBanco.genruntimeconfig.cache
+C:\Users\Delson Magalhaes\FloripaMaisTec\Projetos\Semana5C#\M1S3-SistemaBanco\obj\Debug\net7.0\ref\M1S3-SistemaBanco.dll
